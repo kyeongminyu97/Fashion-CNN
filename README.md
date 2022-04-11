@@ -1,4 +1,4 @@
-# Fashion-CNN
+# Fashion Classification and Recommender System
 
 Multiclass Classification with imbalanced data
 
