@@ -23,6 +23,7 @@ Results Example:
 Used dataset from Kaggle: https://www.kaggle.com/datasets/dqmonn/zalando-store-crawl
 <p align="center">
 <img width="300" alt="Screenshot 2022-04-18 at 02 29 58" src="https://user-images.githubusercontent.com/71874390/163765978-194b9fee-0149-4433-b149-c34d768f78aa.png">
-<img width="300" alt="Screenshot 2022-04-18 at 02 30 09" src="https://user-images.githubusercontent.com/71874390/163765992-648e0fb0-c384-40f5-b1a4-6a6390464009.png">
+  
+<img width="2500" alt="Screenshot 2022-04-18 at 02 30 09" src="https://user-images.githubusercontent.com/71874390/163765992-648e0fb0-c384-40f5-b1a4-6a6390464009.png">
 </p>
 
